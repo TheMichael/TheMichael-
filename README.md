@@ -70,8 +70,10 @@ I combine the rigor of a software engineer with the strategic thinking of a prod
 
 ## Connect
 
-**LinkedIn:** [Michale Ohayon](https://www.linkedin.com/in/michael-ohayon-511163272/)
+**LinkedIn:** [Michael Ohayon](https://www.linkedin.com/in/michael-ohayon-511163272/)
+
 **Email:** Michmich6@gmail.com
+
 **GitHub:** You're already here
 
 ---
