@@ -33,9 +33,13 @@ Currently seeking PM and software engineering roles where I can leverage both te
 ## Tech Stack
 
 **Languages:** Python, JavaScript, SQL, HTML/CSS
+
 **Frameworks:** Flask, React, SQLAlchemy
+
 **Tools:** Git, Docker, Postman, Jira, Figma
+
 **Cloud:** AWS, Google Cloud, Render
+
 **Specialties:** REST APIs, Database Design, Healthcare IT, ML/AI Integration
 
 ---
